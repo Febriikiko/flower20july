@@ -2,6 +2,13 @@
 *{
     font-family: 'Poppins',cursive;
 }
+
+.img-circle-wrapper{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
 body{
     color: azure;
     width: 100%;
